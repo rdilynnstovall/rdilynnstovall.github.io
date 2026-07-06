@@ -1,21 +1,27 @@
 body{
     Background-Color : #c2c2bf
 }    
-h1{ 
+h1,h2,h3{ 
     Font-Family : 'Georgia', serif;
     Font-Size : 28px;
-    Color : #9c9a95;
+    Color : #2d1463;
     margin : 6px
 }
 p{
     Font-Family : "Helvetica", sans-serif;
     Font-Size : 16px; 
-    Color : #555864;
+    Color : #051140;
+    Margin : 6px
+}
+li{
+    Font-Family : "Helvetica", sans-serif;
+    Font-Size : 16px; 
+    Color : #051140;
     Margin : 6px
 }
 Div {
-    Width : 50%;
-    Height : 200px;
+    Width : 150px;
+    Height : 100px;
     Background-Color : lightgray;
     Border : 4px solid black;
     Margin : 8px;
